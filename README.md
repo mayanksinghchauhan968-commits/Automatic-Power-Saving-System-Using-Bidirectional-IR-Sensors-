@@ -19,7 +19,7 @@ An automatic room power-saving system built using pure hardware (ICs only). Bidi
 | Component | Purpose |
 |---|---|
 | IR Transmitter & Receiver (x2) | Detect entry and exit at the door |
-| Counter IC (CD4029 / 74HC4029) | Tracks room occupancy count |
+| Counter IC (CD40110) | Tracks room occupancy count |
 | Logic Gates | Direction detection and control logic |
 | Relay Module | Switches electrical load (lights) |
 | Power Supply | Regulated DC supply for the circuit |
@@ -30,8 +30,6 @@ An automatic room power-saving system built using pure hardware (ICs only). Bidi
 
 | File | Description |
 |---|---|
-| `Block Diagram.png` | High-level system architecture |
-| `Circuit Diagram.png` | Full hardware circuit schematic |
 | `Sate Flow Diagram.png` | State flow of the control logic |
 | `Proteus Implementation.png` | Simulation in Proteus |
 | `Prototype.jpg` | Physical hardware prototype |
@@ -40,17 +38,6 @@ An automatic room power-saving system built using pure hardware (ICs only). Bidi
 
 ---
 
-## Block Diagram
-
-![Block Diagram](Block%20Diagram.png)
-
----
-
-## Circuit Diagram
-
-![Circuit Diagram](Circuit%20Diagram.png)
-
----
 
 ## Proteus Simulation
 
