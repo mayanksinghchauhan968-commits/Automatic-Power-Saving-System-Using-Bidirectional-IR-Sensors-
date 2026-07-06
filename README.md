@@ -85,8 +85,4 @@ An automatic room power-saving system built using pure hardware (ICs only). Bidi
 
 ---
 
-## Author
 
-**Arpan Bhuva**  
-ECE | Electronics & Hardware Design  
-[GitHub Profile](https://github.com/Arpanbhuva)
